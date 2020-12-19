@@ -1,0 +1,9 @@
+.header{
+   background-color: gold;
+}
+
+.body{ 
+    background-color: orange;
+    display : flex;
+    justify-content: space-between;
+}
